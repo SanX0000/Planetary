@@ -1,0 +1,81 @@
+body {
+  size: 3000px;%;
+  background-image: url(assets/terra.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size:cover;
+}
+
+
+nav {
+	position:fixed;
+	right: 300px;
+	top: 110px;
+
+}
+
+
+
+h1 {
+	color: white;
+	font-size: 900%;
+	font-family: 'Trebuchet MS';
+	position: relative;
+	
+	left: 400px;
+
+}
+
+
+h2 {
+	font-family: cursive;
+	font-size: 300%;
+	color: aliceblue;
+	position: relative;
+	left: 400px;
+}
+
+
+.imagemtopo {
+	width: 100%;
+
+}
+
+
+.meio {
+	display:inline-flexbox;
+	text-align: center;
+	font-size: 50px;
+
+	padding: 20px;
+	font-family: cursive;
+}
+
+
+.imagem2 {
+    float: right;
+	width: 30%;
+}
+
+.baixo {
+    display: inline-flexbox;
+	text-align: center;
+	font-size: 50px;
+
+	padding: 20px;
+	font-family: cursive;
+}
+
+
+.imagem3 {
+	float:left;
+	width: 30%;
+}
+
+.rodape{
+	text-align: center;
+	font-size: 50px;
+	background:bisque;
+	padding: 20px;
+
+}

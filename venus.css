@@ -1,0 +1,63 @@
+.fullscreen-bg__video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+
+li
+{
+   display:block;
+   float:right;
+   width:300px; /* adjust */
+   height:150px; /* adjust */
+   padding: 5px; /*adjust*/
+}
+
+
+
+h1 {
+    color:darkgoldenrod;
+    font-size: 900%;
+    font-family: 'Trebuchet MS';
+    position: relative;
+    left: 150px;
+
+}
+
+
+h2 {
+    font-family: cursive;
+    font-size: 300%;
+    color:darkorange;
+    position: relative;
+    left: 150px;
+}
+
+h3 {
+    font-family: 'Trebuchet MS' s;
+    font-size: 200%;
+    color: white;
+    position: relative;
+    left: 150px;
+}
+
+.imagem {
+    float: right;
+}
+
+
+p {
+    color: aliceblue;
+    font-size: 25px;
+    margin: 20px;
+    padding-right: 60%;
+}
+
+
+.par {
+    display:inline ; 
+}
