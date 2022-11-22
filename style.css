@@ -7,13 +7,19 @@ body {
 }
 
 
+nav img:hover {
+    width: 85px;
+	height: 85px;
+}
+
+
 nav {
 	position:fixed;
 	right: 300px;
 	top: 110px;
-
+	
+	
 }
-
 
 
 h1 {
