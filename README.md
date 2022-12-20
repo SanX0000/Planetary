@@ -1,4 +1,4 @@
-<h1 align="center">Planetary</h1>
+<h1 align="center">Planetary 🪐</h1>
 
 https://sanx0000.github.io/Planetary/index.html
 
